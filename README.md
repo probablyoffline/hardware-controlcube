@@ -1,2 +1,3 @@
-# hardware-controlcube
 Scenario prop for outdoor activities
+
+This is the first thing I ever built and coded. Don't look it directly in the eyes.....
